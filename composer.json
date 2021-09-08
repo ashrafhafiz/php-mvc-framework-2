@@ -1,0 +1,15 @@
+{
+    "name": "ashraf.hafiz/php-mvc-framework2",
+    "authors": [
+        {
+            "name": "Ashraf Hafiz",
+            "email": "ashraf.hafiz@yahoo.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "require": {}
+}
